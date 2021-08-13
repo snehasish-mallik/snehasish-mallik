@@ -11,13 +11,6 @@ About Me!
 - A bit nostalgic!
 - Novels and Classic Films are <3
 
-Social Media
-----------------
-- [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](malliksnehasish560@gmail.com)
-
-- [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehasish-mallik-063432166/)
-
-
 Technical SKills!
 ------------------------
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
@@ -38,6 +31,14 @@ Other Languages I know!
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+
+Social Media
+----------------
+- [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](malliksnehasish560@gmail.com)
+
+- [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehasish-mallik-063432166/)
+
+
 
 
 <!-- 
