@@ -19,8 +19,9 @@ Technical SKills!
 
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB)
+
+![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=WordPress)
 
 
 Other Languages I know!
