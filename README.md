@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+About Me:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+I'm Snehasish Mallik, an Information Technology student at Veer Surendra Sai University of Technology, Burla. I love working on web development projects!
+
