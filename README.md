@@ -6,9 +6,9 @@ Hello There! I'm Snehasish Mallik!
 - Information Technology Engineering (In Progress)
 - VSSUT, Burla Student!
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](malliksnehasish560@gmail.com)
+- [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](malliksnehasish560@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehasish-mallik-063432166/)
+- [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehasish-mallik-063432166/)
 
 
 Technical SKills!
