@@ -18,3 +18,9 @@ About Me:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 I'm Snehasish Mallik, an Information Technology student at Veer Surendra Sai University of Technology, Burla. I love working on web development projects!
 
+Technical Skills:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+HTML5 CSS3 
+Javascript NodeJs 
+Java C & C++ Python3 Database Management
+
