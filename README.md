@@ -3,8 +3,6 @@
 Hello There! I'm Snehasish Mallik! 
 ---------------------------------------------------
 - Aspiring to be a full-stack web develper.
-- Information Technology Engineering (In Progress)
-- VSSUT, Burla Student!
 
 About Me!
 -----------
