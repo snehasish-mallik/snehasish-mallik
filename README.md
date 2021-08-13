@@ -1,6 +1,7 @@
 
 
-##### Hello There! I'm Snehasish Mallik! 
+Hello There! I'm Snehasish Mallik! 
+---------------------------------------------------
 
 - I'm an Information Technology student at Veer Surendra Sai University of Technology, Burla. 
 - I love working on web development projects!
