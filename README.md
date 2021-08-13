@@ -34,7 +34,7 @@ Other Languages I know!
 
 Social Media
 ----------------
-- [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehasish-mallik-063432166/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/snehasish-mallik-063432166/)
 
 
 
