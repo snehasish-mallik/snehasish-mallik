@@ -6,6 +6,15 @@ Hello There! I'm Snehasish Mallik!
 - Information Technology Engineering (In Progress)
 - VSSUT, Burla Student!
 
+About Me!
+-----------
+- Information Technology Engineering (In Progress)
+- VSSUT, Burla Student!
+- A bit nostalgic!
+- Novels and Classic Films are <3
+
+Social Media
+----------------
 - [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](malliksnehasish560@gmail.com)
 
 - [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehasish-mallik-063432166/)
@@ -27,6 +36,7 @@ Other Languages I know!
 ------------------
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
