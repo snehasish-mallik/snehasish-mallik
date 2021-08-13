@@ -11,7 +11,8 @@ Hello There! I'm Snehasish Mallik!
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehasish-mallik-063432166/)
 
 
-##### Languages and Tools
+Languages and Tools
+------------------------
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -22,7 +23,8 @@ Hello There! I'm Snehasish Mallik!
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 
 
-##### Other Languages I know!
+Other Languages I know!
+------------------
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
@@ -36,5 +38,7 @@ Hello There! I'm Snehasish Mallik!
 
 [![Bitwarden](https://img.shields.io/badge/-Bitwarden-444444?style=flat&logo=bitwarden&logoColor=175DDC)](https://github.com/bitwarden)
  -->
+
+
 
 ⭐️ From [snehasish-mallik](https://github.com/snehasish-mallik)
