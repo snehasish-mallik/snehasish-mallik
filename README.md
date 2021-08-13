@@ -2,7 +2,7 @@
 
 Hello There! I'm Snehasish Mallik! 
 ---------------------------------------------------
-- Aspiring to be a full-stack web develper.
+- Aspiring to be a full-stack web developer.
 
 About Me!
 -----------
