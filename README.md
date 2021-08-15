@@ -1,4 +1,6 @@
-![darth vader (2)](https://user-images.githubusercontent.com/73893731/129448349-b89d5c71-9cf3-4140-836b-258da590bd61.jpg)
+<br>
+
+![darth vader (2)](https://user-images.githubusercontent.com/73893731/129489508-1ebe5f00-0a2e-4edd-a6f3-89a0bb015bbb.jpg)
 
 
 Hello There! I'm Snehasish Mallik! 
