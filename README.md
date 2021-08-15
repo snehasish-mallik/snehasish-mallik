@@ -1,6 +1,7 @@
 <br>
 
-![darth vader (2)](https://user-images.githubusercontent.com/73893731/129489508-1ebe5f00-0a2e-4edd-a6f3-89a0bb015bbb.jpg)
+![darth vader (2)](https://user-images.githubusercontent.com/73893731/129489535-0e5657b8-fd6a-4de2-beeb-a2f1f17d1e5e.jpg)
+
 
 
 Hello There! I'm Snehasish Mallik! 
@@ -50,6 +51,8 @@ Social Media
 [![Bitwarden](https://img.shields.io/badge/-Bitwarden-444444?style=flat&logo=bitwarden&logoColor=175DDC)](https://github.com/bitwarden)
  -->
 
-
+<br>
+<br>
+<br>
 
 ⭐️ From [snehasish-mallik](https://github.com/snehasish-mallik)
