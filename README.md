@@ -23,7 +23,7 @@ Technical SKills!
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
-![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=WordPress)
+
 
 
 Other Languages I know!
