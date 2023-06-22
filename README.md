@@ -18,6 +18,8 @@ About Me!
 Technical SKills!
 ------------------------
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+![Next.js](https://img.shields.io/badge/-Next.js-222222?style=flat&logo=node.js&logoColor=339933)
+![React.js](https://img.shields.io/badge/-React.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![Selenium](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=selenium)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=MongoDB)
 
